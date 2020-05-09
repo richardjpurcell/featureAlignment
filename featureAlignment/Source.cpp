@@ -1,11 +1,11 @@
 /*
- * File: featureAlignment/Source.cpp
- * Author: Richard Purcell
+ * File:	featureAlignment/Source.cpp
+ * Author:	Richard Purcell
  * Date:	2020/05/04
  * Version	1.0
  *
  * Purpose: A program that aligns images based on features
- *			Done for OpenCV's Computer Vision 1 course
+ *          Done for OpenCV's Computer Vision 1 course
  */
 
 #include <opencv2/opencv.hpp>
